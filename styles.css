@@ -1,26 +1,19 @@
-body {
+body{
 background-color: #CDE8F6;
 }
 
-hr {
 
-border-style: none;
-border-top-style: dotted;
+hr{
 border-color: grey;
-border-width: 5px;
-width: 20% ;
+border-style: dotted;
+width: 70%;
+
 }
 
-/*
 
-commenting in CSS
+/* class selector */
 
-*/
-
-
-
-/* ******************** class selectors ******************/
-
-.logo{
-  background-color: red;
+.table{
+  width: auto;
+  margin: 0 auto 0 auto;
 }
