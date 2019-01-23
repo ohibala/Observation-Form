@@ -1,0 +1,26 @@
+body {
+background-color: #CDE8F6;
+}
+
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 20% ;
+}
+
+/*
+
+commenting in CSS
+
+*/
+
+
+
+/* ******************** class selectors ******************/
+
+.logo{
+  background-color: red;
+}
